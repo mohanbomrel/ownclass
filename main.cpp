@@ -9,5 +9,5 @@ int main()
     Mohan.displayCollege();
     Human Mohana(24);
     Mohana.displayAge();
-
 }
+
